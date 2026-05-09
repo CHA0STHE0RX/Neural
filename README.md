@@ -3,11 +3,11 @@ Created for : Simulating neurons-networks based on the Hodgkin Huxley Model and 
 `pip install -r requirements.txt`
 <br/>
 <br/>
-<img width="556" height="422" alt="graph" src="https://github.com/user-attachments/assets/a83634f3-e3cd-40c3-9572-bacbeacd86f7" />
+<img width="556" height="422" alt="graph 2026-04-02 133207" src="https://github.com/user-attachments/assets/e2b8ef8a-cbf5-4c9c-a2e6-fb5991ad1697" />
 (reaction, y=voltage, x=time(ms))
 <br />
 <br/>
-<img width="986" height="656" alt="image" src="https://github.com/user-attachments/assets/4bbfd093-735e-4c91-8e16-1afd16330fd4" />
+<img width="982" height="587" alt="image" src="https://github.com/user-attachments/assets/1b07274c-be9f-4a03-95a6-445f44425ea9" />
 (training (red:pre-training green:post-training) current network.py)
 <br />
 <br/>
