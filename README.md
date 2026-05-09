@@ -8,7 +8,7 @@ Created for : Simulating neurons-networks based on the Hodgkin Huxley Model and 
 <br />
 <br/>
 <img width="982" height="587" alt="image" src="https://github.com/user-attachments/assets/1b07274c-be9f-4a03-95a6-445f44425ea9" />
-(training (red:pre-training green:post-training) current network.py)
+(training : red:pre-training green:post-training)
 <br />
 <br/>
 References:  
